@@ -6,7 +6,7 @@ Application under test: https://opensource-demo.orangehrmlive.com/
 
 API Documentation: https://orangehrm.github.io/orangehrm-api-doc/
 
-**The final project will be split into 3 sections: [Testing section](https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/tree/main/Final%20Project#1-testing-section), [SQL section](https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/tree/main/Final%20Project#2-sql-section) and [API section](https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/blob/main/Final%20Project/README.md#3-api-section).**
+**The final project will be split into 3 sections: [Testing section](https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/tree/main/Final%20Project#1-testing-section), [API section](https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/blob/main/Final%20Project/README.md#3-api-section) and [SQL section](https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/tree/main/Final%20Project#2-sql-section).**
 
 Tools used:
 
@@ -89,6 +89,6 @@ The following elements are needed to be ready before the test execution phase be
 
 -> enter here test execution report/chart
 
-# 2 SQL section
+# 2 API section
 
-# 3 API section
+# 3 SQL section
