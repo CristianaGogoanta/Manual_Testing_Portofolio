@@ -29,19 +29,16 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.1 Roles assigned to the project and persons allocated
 
-Project manager - Andreea Mihalache
-
-Product owner - George Olteanu
-
-Software developer - Gabriela Tomescu
-
-QA Engineer - Cristiana Gogoanță
+- Project manager - Andreea Mihalache
+- Product owner - George Olteanu
+- Software developer - Gabriela Tomescu
+- QA Engineer - Cristiana Gogoanță
 
 #### 1.1.2 Entry criteria defined
 
-The environment is up and running
-Role and permissions are allocated
-User created
+* The environment is up and running
+* Role and permissions are allocated
+* User created
 
 #### 1.1.3 Exit criteria defined
 
