@@ -41,28 +41,30 @@ The plan identifies the items to be tested, the features to be tested, the types
 * Role and permissions are allocated
 * User created
 
-#### 1.1.3 Exit criteria defined
+#### 1.1.3 Evaluating entry criteria
 
-_ All test cases set in scope executed
-* During this testing, all 15 test cases planned for execution were tested and a total number of 3 bugs were discovered, whose priorities are: 1 – highest, 1 – high and 1 – medium.
-The reported defects were fixed and retested.
-Product risks have been reduced by upgrading the application.
-Retesting and regression testing will be done for the new version of the application.
-Testing deadline 31.05.2022
+The entry criterias defined in the Test Planning phase have been achieved and the test process can continue. 
+
 
 #### 1.1.4 Test scope
 
-* __Tests in scope:__ 
-* __Tests not in scope:__ 
+* __Tests in scope:__ Review and Functional Testing using Black-box testing, Experience-based testing as Test Design Tehniques. GUI testing.
+* __Tests not in scope:__ Performance Testing, Stress testing, Volume Testing, Compatibility testing with multiple browsers, Mobile testing and Functional Testing using White-box Testing Tehniques.
 
 #### 1.1.5 Risks detected
 
 * Project risks: 
-* Product risks: 
+(100. ) Product risks: * Unstable application (there are times when it doesn't work at all), which can lead to inability of the product to meet requirements. 
+                       * Poor functioning ( sometimes login is not allowed ) this can lead to inability of the product to meet the customer's expectations
 
-#### 1.1.6 Evaluating entry criteria
+#### 1.1.6 Exit criteria defined
 
-The entry criterias defined in the Test Planning phase have been achieved and the test process can continue. 
+* All test cases set in scope executed
+* During this testing, all 15 test cases planned for execution were tested and a total number of 3 bugs were discovered, whose priorities are: 1 – highest, 1 – high and 1 – medium.
+* The reported defects were fixed and retested.
+* Product risks have been reduced by upgrading the application.
+* Retesting and regression testing will be done for the new version of the application.
+* Testing deadline 10.08.2022
 
 ## 1.2 Test Monitoring and Control
 
