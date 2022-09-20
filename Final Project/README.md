@@ -34,10 +34,14 @@ Project manager - Andreea Mihalache
 Product owner - George Olteanu
 
 Software developer - Gabriela Tomescu
-QA Engineer - Iulia Albu
+
+QA Engineer - Cristiana Gogoanță
 
 #### 1.1.2 Entry criteria defined
 
+The environment is up and running
+Role and permissions are allocated
+User created
 
 #### 1.1.3 Exit criteria defined
 
