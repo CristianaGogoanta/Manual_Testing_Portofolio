@@ -54,8 +54,8 @@ The entry criterias defined in the Test Planning phase have been achieved and th
 #### 1.1.5 Risks detected
 
 * Project risks: 
-(100. ) Product risks: * Unstable application (there are times when it doesn't work at all), which can lead to inability of the product to meet requirements. 
-                       * Poor functioning ( sometimes login is not allowed ) this can lead to inability of the product to meet the customer's expectations
+* Product risks: * Unstable application (there are times when it doesn't work at all), which can lead to inability of the product to meet requirements. 
+                 * Poor functioning ( sometimes login is not allowed ) this can lead to inability of the product to meet the customer's expectations
 
 #### 1.1.6 Exit criteria defined
 
