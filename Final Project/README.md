@@ -1,6 +1,6 @@
 # Final project for ITF Manual Testing Course
 
-The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application. 
+  The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application. 
 
 Application under test: https://opensource-demo.orangehrmlive.com/ , based on the Complete Administrative User Guide specifications (https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf).
 
@@ -12,7 +12,8 @@ Tools used: Jira, Zephyr Squad, Postman and MySQL Workbench.
 
 # Functional specifications
 
-The application chosen by me for testing is https://opensource-demo.orangehrmlive.com/ , "Admin" section, "User management" and "Job" module.
+   The application chosen by me for testing is https://opensource-demo.orangehrmlive.com/ , "Admin" section, "User management" and "Job" module.
+   
    The test project was created with the help of the Jira tool and is divided into two epics, one for the "User Management" module, having as a requirement, the verification of the functionality to administer users as an admin, and the second epic for the "Job" module and requests testing as an admin to all the elements that make up the web page (GUI testing).
    
    ![EPIC+STORY](https://user-images.githubusercontent.com/37835952/191321453-ded78dee-e023-45d5-af5e-1137c9ac7c05.jpg)
