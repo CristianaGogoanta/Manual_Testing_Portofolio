@@ -43,6 +43,13 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.3 Exit criteria defined
 
+_ All test cases set in scope executed
+* During this testing, all 15 test cases planned for execution were tested and a total number of 3 bugs were discovered, whose priorities are: 1 – highest, 1 – high and 1 – medium.
+The reported defects were fixed and retested.
+Product risks have been reduced by upgrading the application.
+Retesting and regression testing will be done for the new version of the application.
+Testing deadline 31.05.2022
+
 #### 1.1.4 Test scope
 
 * __Tests in scope:__ 
