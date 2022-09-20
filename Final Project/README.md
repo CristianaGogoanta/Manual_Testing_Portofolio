@@ -2,13 +2,13 @@
 
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application. 
 
-Application under test: https://opensource-demo.orangehrmlive.com/
+Application under test: https://opensource-demo.orangehrmlive.com/ , based on the Complete Administrative User Guide specifications (https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf).
 
 API Documentation: https://orangehrm.github.io/orangehrm-api-doc/
 
-**The final project will be split into 3 sections: [Testing section](https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/tree/main/Final%20Project#1-testing-section), [API section](https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/blob/main/Final%20Project/README.md#3-api-section) and [SQL section](https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/tree/main/Final%20Project#2-sql-section).**
+**The final project will be split into 3 sections: [Testing section](https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/tree/main/Final%20Project#1-testing-section), [API Testing](https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/blob/main/Final%20Project/README.md#3-api-section) and [SQL section](https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/tree/main/Final%20Project#2-sql-section).**
 
-Tools used:
+Tools used: Jira, Zephyr Squad, Postman and MySQL Workbench.
 
 # Functional specifications
 
@@ -89,6 +89,6 @@ The following elements are needed to be ready before the test execution phase be
 
 -> enter here test execution report/chart
 
-# 2 API section
+# 2 API testing
 
 # 3 SQL section
