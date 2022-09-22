@@ -73,7 +73,17 @@ It will be done by generating periodic reports that reflect the current status o
 ## 1.3 Test Analysis
 
 The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
- * Enter test conditions here
+* Adding a user in the "PIM" module; 
+* Adding a user with the admin function; 
+* Adding a user with the function of ESS-Supervisor/Employee;
+* Deleting a user;
+* Saving newly added users from one login to another;
+* Changing the status of a user;
+* Changing a user's role;
+* Checking the correct operation of:
+            * "Add", "Save", "Delete", "Edit", "Cancel" buttons;
+            * Text fields;
+            * Check boxes.
 
 ## 1.4 Test Design
 
