@@ -80,10 +80,9 @@ The testing process will be executed based on the above requirements for the Dep
 * Saving newly added users from one login to another;
 * Changing the status of a user;
 * Changing a user's role;
-* Checking the correct operation of:
-            * "Add", "Save", "Delete", "Edit", "Cancel" buttons;
-            * Text fields;
-            * Check boxes.
+* Checking the correct operation of "Add", "Save", "Delete", "Edit", "Cancel" buttons;
+* Checking all text fields;
+* checking all check boxes.
 
 ## 1.4 Test Design
 
@@ -135,13 +134,11 @@ All test cases with steps can be viewed here: [Zephyr Test Steps + Executions + 
 * 
 ![image](https://user-images.githubusercontent.com/37835952/191855797-34e11875-443e-48d6-bd19-56d2e1bb0894.png)
 
-* During this testing, all 15 test cases planned for execution were tested.
-* Defectele raportate au fost remediate si retestate.
-* Riscurile de produs au fost diminuate prin upgradarea aplicatiei.
-* Se va efectua retestarea și testarea de regresie pentru noua versiune a aplicație.
+During this testing, all 15 test cases planned for execution were tested. From the 15 tests, a total number of 3 bugs were discovered, whose priorities are: 1 – highest, 1 – high and 1 – medium.
 
-
-
+The reported defects were fixed and retested.
+Product risks have been reduced by upgrading the application.
+Retesting and regression testing will be done for the new version of the application.
 
 
 # 2 API testing
