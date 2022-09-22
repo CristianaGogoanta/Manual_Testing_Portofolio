@@ -131,8 +131,8 @@ All test cases with steps can be viewed here: [Zephyr Test Steps + Executions + 
 * Exit criteria was evaluated and passed
 * The traceability matrix was generated and can be found here: [Traceability Report (Direct Only) (Jira).pdf] (https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/blob/main/Final%20Project/Traceability%20Report%20(Direct%20Only)%20(Jira).pdf) and [Traceability matrix.xlsx](https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/blob/main/Final%20Project/Traceability%20matrix.xlsx)
 * Test execution chart was generated, the final report shows:
-* 
-![image](https://user-images.githubusercontent.com/37835952/191855797-34e11875-443e-48d6-bd19-56d2e1bb0894.png)
+
+<img width="617" alt="Raport Final" src="https://user-images.githubusercontent.com/37835952/191857477-5705f7e8-26db-4471-a926-0fd0fadf966f.png">
 
 During this testing, all 15 test cases planned for execution were tested. From the 15 tests, a total number of 3 bugs were discovered, whose priorities are: 1 – highest, 1 – high and 1 – medium.
 
