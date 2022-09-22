@@ -83,8 +83,6 @@ are:
 **Test cases:**
 ![teste](https://user-images.githubusercontent.com/37835952/191848075-b934b13e-9217-46d5-a8ff-18eccb479f9f.jpg)
 
--> enter here test cases or at least the titles
-
 
 The test cases with steps can be viewed here: [Zephyr Test Steps + Executions + Results (Jira).pdf](https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/blob/main/Final%20Project/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira).pdf)
 
@@ -92,22 +90,49 @@ The test cases with steps can be viewed here: [Zephyr Test Steps + Executions + 
 
 The following elements are needed to be ready before the test execution phase begins:
 
-* enter here what needs to be ready for the test execution to begin
+* Testing environment is up and running: https://opensource-demo.orangehrmlive.com/
+* Access to the testing environment is given: Username : Admin | Password : admin123
+* Cycle summary was created
+* Test cases were added to the cycle summary
 
 ## 1.6 Test Execution
 
-* Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf]()
-* Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf]()
-    *  enter here bug titles
+* Test cases are executed on 2 test Cycle summary created : 
+
+ 1. Testing the functionality of the Admin section of the OrangeHRM site Version 2 
+ ![teste functionality](https://user-images.githubusercontent.com/37835952/191852059-be17262f-4b12-4991-bb56-a61f72731fb8.png)
+ ![teste functionality 1](https://user-images.githubusercontent.com/37835952/191852185-c149ed72-45f4-449a-b7bf-e4f0d872a1bc.jpg)
+![teste functionality 2](https://user-images.githubusercontent.com/37835952/191852315-b378e7e7-4ae3-42fc-a1dd-d721dc93ab56.jpg)
+
+ 2. GUI Testing module "Job"
+![teste GUI](https://user-images.githubusercontent.com/37835952/191852391-27b3a794-d96a-418b-90e4-d1ee0c065d5e.jpg)
+
+All test cases with steps can be viewed here: [Zephyr Test Steps + Executions + Results (Jira).pdf](https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/blob/main/Final%20Project/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira).pdf)
+
+* Bugs have been created based on the failed tests. The complete bug reports can be found here: [BUGS.pdf](https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/blob/main/Final%20Project/BUGS.pdf)
+![bug  ticket](https://user-images.githubusercontent.com/37835952/191853198-9d0bd905-8477-470a-9303-e186a654def8.jpg)
+
+   Bug report example :
+   ![bug part 1](https://user-images.githubusercontent.com/37835952/191853679-29c03bda-83fc-4f39-a248-0cec5e337410.png)
+   ![bug part 2](https://user-images.githubusercontent.com/37835952/191853713-043f27cd-b57e-4aff-b186-74297b8a0f5f.png)
 
 
 ## 1.7 Test Completion
 
 * Exit criteria was evaluated and passed
-* The traceability matrix was generated and can be found here: [Traceability_matrix.csv]()
-* Test execution chart was generated, the final report shows.... -> describe the final report
+* The traceability matrix was generated and can be found here: [Traceability Report (Direct Only) (Jira).pdf] (https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/blob/main/Final%20Project/Traceability%20Report%20(Direct%20Only)%20(Jira).pdf) and [Traceability matrix.xlsx](https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/blob/main/Final%20Project/Traceability%20matrix.xlsx)
+* Test execution chart was generated, the final report shows:
+* 
+![image](https://user-images.githubusercontent.com/37835952/191855797-34e11875-443e-48d6-bd19-56d2e1bb0894.png)
 
--> enter here test execution report/chart
+* During this testing, all 15 test cases planned for execution were tested.
+* Defectele raportate au fost remediate si retestate.
+* Riscurile de produs au fost diminuate prin upgradarea aplicatiei.
+* Se va efectua retestarea și testarea de regresie pentru noua versiune a aplicație.
+
+
+
+
 
 # 2 API testing
 
