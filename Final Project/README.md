@@ -81,10 +81,12 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 are:
 
 **Test cases:**
+![teste](https://user-images.githubusercontent.com/37835952/191848075-b934b13e-9217-46d5-a8ff-18eccb479f9f.jpg)
+
 -> enter here test cases or at least the titles
 
 
-The test cases with steps can be viewed here: [test_cases.pdf]()
+The test cases with steps can be viewed here: [Zephyr Test Steps + Executions + Results (Jira).pdf](https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/blob/main/Final%20Project/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira).pdf)
 
 ## 1.5 Test Implementation
 
