@@ -129,7 +129,7 @@ All test cases with steps can be viewed here: [Zephyr Test Steps + Executions + 
 ## 1.7 Test Completion
 
 * Exit criteria was evaluated and passed
-* The traceability matrix was generated and can be found here: [Traceability Report (Direct Only) (Jira).pdf] (https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/blob/main/Final%20Project/Traceability%20Report%20(Direct%20Only)%20(Jira).pdf) and [Traceability matrix.xlsx](https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/blob/main/Final%20Project/Traceability%20matrix.xlsx)
+* The traceability matrix was generated and can be found here: [Traceability Report (Direct Only) (Jira).pdf](https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/blob/main/Final%20Project/Traceability%20Report%20(Direct%20Only)%20(Jira).pdf) and [Traceability matrix.xlsx](https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/blob/main/Final%20Project/Traceability%20matrix.xlsx)
 * Test execution chart was generated, the final report shows:
 
 <img width="617" alt="Raport Final" src="https://user-images.githubusercontent.com/37835952/191857477-5705f7e8-26db-4471-a926-0fd0fadf966f.png">
