@@ -137,7 +137,9 @@ All test cases with steps can be viewed here: [Zephyr Test Steps + Executions + 
 During this testing, all 15 test cases planned for execution were tested. From the 15 tests, a total number of 3 bugs were discovered, whose priorities are: 1 – highest, 1 – high and 1 – medium.
 
 The reported defects were fixed and retested.
+
 Product risks have been reduced by upgrading the application.
+
 Retesting and regression testing will be done for the new version of the application.
 
 
