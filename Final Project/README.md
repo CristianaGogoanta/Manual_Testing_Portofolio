@@ -149,6 +149,10 @@ Retesting and regression testing will be done for the new version of the applica
 # 2 API testing
 
 API testing was done for the Admin, Employee, Leave and Time modules. the tests were written in Postman and contain the HTTP methods GET, POST, PUT and DELETE.
-If you want to run the [Collection](https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/blob/main/Final%20Project/OrangeHRM%20API%20Collection.postman_collection%20Cristiana%20Gogoanta) and the [Environment](https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/blob/main/Final%20Project/Environment%20OrangeHRM.postman_environment%20Cristiana%20Gogoanta), you need first to register your OAuth Client, in the Orange HRM application, Configuration module, Register OAuth Client section.
+If you want to run the [Collection](https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/blob/main/Final%20Project/OrangeHRM%20API%20Collection.postman_collection%20Cristiana%20Gogoanta) and the [Environment](https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/blob/main/Final%20Project/Environment%20OrangeHRM.postman_environment%20Cristiana%20Gogoanta), you need first to register your OAuth Client, in the Orange HRM application,Admin module, Configurationsection, Register OAuth Client subsection.
 
 # 3 SQL section
+
+I created the [OrangeHRM database](https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/blob/main/Final%20Project/OrangeHRM.sql) using the information found in the Admin and PIM Module
+
+![Baza de date Orangehrm](https://user-images.githubusercontent.com/37835952/192978730-0634ee04-84b7-43d6-9dd2-a61e58ab1217.jpg)
