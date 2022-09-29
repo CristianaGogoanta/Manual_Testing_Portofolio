@@ -109,16 +109,19 @@ The following elements are needed to be ready before the test execution phase be
 * Test cases are executed on 2 test Cycle summary created : 
 
  1. Testing the functionality of the Admin section of the OrangeHRM site Version 2 
+ 
  ![teste functionality](https://user-images.githubusercontent.com/37835952/191852059-be17262f-4b12-4991-bb56-a61f72731fb8.png)
  ![teste functionality 1](https://user-images.githubusercontent.com/37835952/191852185-c149ed72-45f4-449a-b7bf-e4f0d872a1bc.jpg)
 ![teste functionality 2](https://user-images.githubusercontent.com/37835952/191852315-b378e7e7-4ae3-42fc-a1dd-d721dc93ab56.jpg)
 
  2. GUI Testing module "Job"
+ 
 ![teste GUI](https://user-images.githubusercontent.com/37835952/191852391-27b3a794-d96a-418b-90e4-d1ee0c065d5e.jpg)
 
 All test cases with steps can be viewed here: [Zephyr Test Steps + Executions + Results (Jira).pdf](https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/blob/main/Final%20Project/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira).pdf)
 
 * Bugs have been created based on the failed tests. The complete bug reports can be found here: [BUGS.pdf](https://github.com/CristianaGogoanta/Manual_Testing_Portofolio/blob/main/Final%20Project/BUGS.pdf)
+
 ![bug  ticket](https://user-images.githubusercontent.com/37835952/191853198-9d0bd905-8477-470a-9303-e186a654def8.jpg)
 
    Bug report example :
